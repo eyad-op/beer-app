@@ -1,4 +1,4 @@
-# web-app2
+# beer-app
 
 ## Project setup
 ```
