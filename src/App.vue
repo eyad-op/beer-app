@@ -1,6 +1,6 @@
 <template>
   <div class="bg-img"></div>
-<main>
+  <main>
     <header>
       <h1>Beer app</h1>
     </header>
