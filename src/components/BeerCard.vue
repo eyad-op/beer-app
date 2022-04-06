@@ -23,10 +23,7 @@ export default {
     };
   },
   mounted() {
-    fetch("https://random-data-api.com/api/beer/random_beer")
-      .then((res) => res.json())
-      .then((data) => (this.beer = data))
-      .catch((err) => console.log(err.message));
+    this.newBeer()
   },
   methods: {
     newBeer() {
